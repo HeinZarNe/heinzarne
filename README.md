@@ -3,7 +3,7 @@
 Hi there! I'm **Hein Zar Ne**, a passionate **Frontend Web Developer** and second-year student at the **University of Computer Studies, Yangon**. Since 2019, I've been crafting creative and functional web solutions, continuously exploring new tools and techniques in the ever-evolving world of software development.  
 
 ### 🚀 About Me
--  ***🌟Hackathon Winner:*** Proud first-prize winner at a **Job-Matching Hackathon** organized by JICA, where our team developed an innovative **membership management website** for a meditation center and monastery, incorporating **cost-effective solutions** and a stunning **UI** design.  
+-  **🌟Hackathon Winner:** Proud first-prize winner at a **Job-Matching Hackathon** organized by JICA, where our team developed an innovative **membership management website** for a meditation center and monastery, incorporating **cost-effective solutions** and a stunning **UI** design.  
 - 💡 **Creative Thinker:** Whether it's building dynamic UIs or streamlining processes with web applications, I love finding unique and practical solutions to challenges.  
 - 💻 **Lifelong Learner:** From React to Next.js, I’m always expanding my knowledge base, recently diving into mobile development with React Native.  
 
